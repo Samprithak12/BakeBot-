@@ -1,5 +1,6 @@
-# Dazzling Delight
- "Dazzling Delight" is the gateway to a world of baking brilliance! This repository houses the codebase for the Dazzling Delight baking website, where passion meets precision in the art of baking. Explore a diverse range of delectable recipes, expert insights, and captivating content in this universe of Dazzling Delight.
+#BakeBot
+Bake Bot - virtual Baking Assistant
+Bake Bot is an intelligent web application designed to assist users with their baking needs. Whether you're a beginner looking to bake your first cake or an experienced baker seeking new recipe ideas, Bake Bot is here to guide you step-by-step through the baking process.
 
 # Icons
 All icons taken from font-awesome
