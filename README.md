@@ -1,4 +1,4 @@
-#BakeBot
+# BakeBot
 Bake Bot - virtual Baking Assistant
 Bake Bot is an intelligent web application designed to assist users with their baking needs. Whether you're a beginner looking to bake your first cake or an experienced baker seeking new recipe ideas, Bake Bot is here to guide you step-by-step through the baking process.
 
